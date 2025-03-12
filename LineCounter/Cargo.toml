@@ -1,0 +1,11 @@
+[package]
+name = "LineCounter"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "Утиліта підрахунку рядків у текстовому файлі"
+
+[dependencies]
+iced = "0.3"
+iced_native = "0.4"
+rfd = "0.10"
